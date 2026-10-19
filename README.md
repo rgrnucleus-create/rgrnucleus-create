@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### This website is for random chaotic things.
 
-![https://static.wikia.nocookie.net/the-unofficial-outcome-memories/images/4/4e/FleetwayEDITEDD.png/revision/latest/scale-to-width-down/1000?cb=20260317020405]
+!(https://static.wikia.nocookie.net/the-unofficial-outcome-memories/images/4/4e/FleetwayEDITEDD.png/revision/latest/scale-to-width-down/1000?cb=20260317020405)
