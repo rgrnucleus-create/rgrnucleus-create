@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### This website is for random chaotic things.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://static.wikia.nocookie.net/the-unofficial-outcome-memories/images/4/4e/FleetwayEDITEDD.png/revision/latest/scale-to-width-down/1000?cb=20260317020405
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle small.](https://static.wikia.nocookie.net/the-unofficial-outcome-memories/images/4/4e/FleetwayEDITEDD.png/revision/latest/scale-to-width-down/1000?cb=20260317020405
 )
 
 ### this lil guy is very random and chaotic
