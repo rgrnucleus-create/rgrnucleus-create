@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### This website is for random chaotic things.
+
+![https://preview.redd.it/why-is-fleetway-the-only-one-with-a-health-bar-while-the-v0-xhh0b6k7gp9g1.jpeg?auto=webp&s=a3316865372bdd59d1093bce26d36356b8ef1121]
